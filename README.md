@@ -1,5 +1,11 @@
-## Prazer!!! Me chamo Nathan André. Sou game designer e game developer!
-<p align="left"><img align="center" src="https://komarev.com/ghpvc/?username=Nylleth&color=blue&style=flat-square&&label=Visualizações"/></p>
+## <p align="center">Olá, muito prazer!!! Me chamo <a href="https://www.linkedin.com/in/nathan-andre-silva" target="_blank">Nathan André</a> 😀. </p>
+
+<p align="center">Sou formado em jogos digitais. Portanto, possuo conhecimento em game design e desenvolmimento de jogos com foco na Unity.</p>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Nylleth&color=blue&style=flat-square&&label=Visualizações"/></p>
+  <p align="center"><img align="center" alt="Nyll-Avatar" height="200" width="200" src="https://imgur.com/EkvAb32.gif" /></p>
+</div>
 
 ##
 
@@ -16,7 +22,6 @@
   <img align="center" alt="Nyll-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Nyll-Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img align="center" alt="Nyll-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img align="right" alt="Nyll-Avatar" height="200" width="200" src="https://imgur.com/EkvAb32.gif" />
 </div>
 
   ##
