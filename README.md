@@ -35,7 +35,7 @@
     
 <div align="center">
     
-  ![Snake animation](https://github.com/Nylleth/Nylleth/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/Nylleth/Nylleth/blob/output/github-contribution-grid-snake.svg)
     
 </div>  
     
