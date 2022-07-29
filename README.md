@@ -1,6 +1,5 @@
 ## <p align="center">Olá, muito prazer!!! Me chamo <a href="https://www.linkedin.com/in/nathan-andre-silva" target="_blank">Nathan André</a> 😀. </p>
-
-<p align="center">Sou formado em jogos digitais. Portanto, possuo conhecimento em game design e desenvolmimento de jogos com foco na Unity.</p>
+<p align="center">Sou formado em jogos digitais. Portanto, possuo conhecimento em game design e desenvolvimento de jogos com foco na Unity.</p>
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Nylleth&color=blue&style=flat-square&&label=Visualizações"/></p>
@@ -8,24 +7,26 @@
 </div>
 
 ##
+
 <div align="center">
   <a href="https://github.com/Nylleth">
-  <img align="center" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Nylleth&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <!--<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nylleth&theme=github_dark"/>-->
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nylleth&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <!--<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nylleth&layout=compact&theme=github_dark"/>-->
+    <img align="center" height="180em" ssrc="https://github-readme-streak-stats.herokuapp.com/?user=Nylleth"/>
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nyll-CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="Nyll-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="Nyll-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Nyll-Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img align="center" alt="Nyll-Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Nyll-CSharp" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Nyll-Java" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Nyll-Python" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Nyll-Unity" height="50px" width="50px" src="https://imgur.com/fCcEKfi.png" />
+  <img align="center" alt="Nyll-Photoshop" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
-  ##
+<br>
   
-<div>
+<div align="center" style="display: inline_block">
  <a href="https://discordapp.com/users/326128459166515201" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nylleth.gamedev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-andre-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
