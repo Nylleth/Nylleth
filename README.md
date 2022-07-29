@@ -1,4 +1,7 @@
-## Prazer!!! Me chamo Nathan André, game designer/developer!
+Prazer!!! Me chamo Nathan André, game designer/developer!
+<p align="left"><img align="center" src="https://komarev.com/ghpvc/?username=Nylleth&color=blue&style=flat-square"/></p>
+
+##
 
 <div align="center">
   <a href="https://github.com/Nylleth">
