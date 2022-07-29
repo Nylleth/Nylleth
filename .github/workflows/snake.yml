@@ -9,6 +9,10 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    outputs:
+      color_snake: blue
+      palette: github-dark
+      color_dots: a70000, ff0000, ff5252, ff7b7b, ffbaba
     steps:
       # Snake Animation
       - uses: Platane/snk@master
