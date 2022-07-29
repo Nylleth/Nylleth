@@ -38,5 +38,3 @@
   ![Snake animation](https://github.com/Nylleth/Nylleth/blob/output/github-contribution-grid-snake.svg)
     
 </div>  
-    
-<p align="center">Créditos: <a href="https://github.com/rafaballerini" target="_blank">Rafaella Ballerini</a></p>
