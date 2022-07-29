@@ -8,11 +8,10 @@
 </div>
 
 ##
-
 <div align="center">
   <a href="https://github.com/Nylleth">
   <img align="center" height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Nylleth&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nylleth&layout=compact&theme=github_dark"/>
+  <!--<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nylleth&theme=github_dark"/>-->
   </a>
 </div>
 
@@ -34,3 +33,5 @@
 </div>
     
 ![Snake animation](https://github.com/Nylleth/Nylleth/blob/output/github-contribution-grid-snake.svg)
+    
+  <p align="center">Créditos: <a href="https://github.com/rafaballerini" target="_blank">Rafaella Ballerini</a></p>
